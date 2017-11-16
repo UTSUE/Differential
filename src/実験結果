@@ -1,0 +1,46 @@
+Input value of a> 1
+Input value of h> 0.00001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.00001000001393
+f(x)=x^2‚Ìh=1.0E-5‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í5.000006964905879E-4
+
+Input value of a> 1
+Input value of h> 0.000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0000009999243673
+f(x)=x^2‚Ìh=1.0E-6‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í4.999621836532242E-5
+	
+Input value of a> 1
+Input value of h> 0.0000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0000001010878066
+f(x)=x^2‚Ìh=1.0E-7‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í5.054390328496083E-6
+
+Input value of a> 1
+Input value of h> 0.00000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í1.999999987845058
+f(x)=x^2‚Ìh=1.0E-8‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í6.07747097092215E-7
+
+Input value of a> 1
+Input value of h> 0.000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000000165480742
+f(x)=x^2‚Ìh=1.0E-9‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í8.274037099909037E-6
+
+Input value of a> 1
+Input value of h> 0.0000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000000165480742
+f(x)=x^2‚Ìh=1.0E-10‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í8.274037099909037E-6
+
+Input value of a> 1
+Input value of h> 0.00000000001
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.0
+f(x)=x^2‚Ìx=1.0‚É‚¨‚¯‚é”÷•ªŒW”‚Í2.000000165480742
+f(x)=x^2‚Ìh=1.0E-11‚É‚¨‚¯‚é‘Š‘ÎŒë·‚Í8.274037099909037E-6
+
+
+‚æ‚Á‚ÄA
+¸“x‚ªˆê”Ô‚æ‚¢‚Æ‚«‚Ìh‚Ì’l‚Š‚ÍA
+h=1.0E-8B
